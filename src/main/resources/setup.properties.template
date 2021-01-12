@@ -1,0 +1,11 @@
+//SQLite
+dbpath=
+//MySQL
+dbname=
+user=
+password=
+userSSL=FALSE
+serverTimezone=Europe/Madrid
+allowPublicKeyRetrieval=true
+//Irudiak
+pathToImages=
